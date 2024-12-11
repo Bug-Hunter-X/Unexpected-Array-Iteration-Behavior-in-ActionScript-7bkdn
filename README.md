@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon ActionScript bug related to array iteration and modification. The bug occurs when the length of the array being iterated over changes within the loop. This can result in elements being skipped or the loop terminating prematurely. The `bug.as` file shows the erroneous code, while `bugSolution.as` provides the corrected implementation.
